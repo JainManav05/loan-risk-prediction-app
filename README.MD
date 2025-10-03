@@ -37,6 +37,19 @@ To run this project locally, please follow these steps:
     ```
 
 ---
+
+---
+
+## 💾 Data Source
+
+The dataset used for this project is the **LendingClub Loan Data** available on Kaggle. It contains complete loan data for all loans issued from 2007 to 2018.
+
+-   **Source:** [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+-   **File:** `accepted_2007_to_2018Q4.csv.gz`
+
+Due to its large size, the dataset is not included in this repository. Please download it from the link above and place it in the root project directory to run the analysis notebook.
+
+---
 ## Usage
 
 1.  **Run the Flask API:**
